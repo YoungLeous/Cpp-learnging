@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (hello world.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  sub.cpp
+  main.cpp
+  add.cpp
+  Generating Code...
+  hello world.vcxproj -> C:\Users\Yang\Documents\cpp\hello world\Debug\calculate.exe
+  hello world.vcxproj -> C:\Users\Yang\Documents\cpp\hello world\Debug\calculate.pdb (Full PDB)
